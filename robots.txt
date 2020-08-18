@@ -1,4 +1,5 @@
 # robotstxt.org/
 Added new line from develop branch
 
+Added from web for conflicts
 User-agent: *
